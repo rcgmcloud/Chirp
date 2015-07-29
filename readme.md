@@ -23,4 +23,4 @@ Using Mocha and Chai, write tests for your chirp function before building the `c
 > Test-Driven Development, Ho!
 
 ## Bonus
-Modify your function so that it accepts a second argument which will be a String. This string will replace the default word: "Chirp".
+Modify your function so that it accepts a second argument which will be a String. This string will replace the default word: "Chirp".# Chirp
